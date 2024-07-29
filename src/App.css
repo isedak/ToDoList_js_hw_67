@@ -1,0 +1,24 @@
+* {
+  font-family: 'Roboto', sans-serif;
+  box-sizing: border-box;
+}
+
+::-webkit-scrollbar {
+  width: 5px;
+}
+
+::-webkit-scrollbar-track {
+  border-radius: 3px;
+  margin-top: 2px;
+  margin-bottom: 2px;
+  padding-right: 2px;
+}
+
+::-webkit-scrollbar-thumb {
+  background: rgb(231, 241, 248);
+  border-radius: 3px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: rgb(177, 204, 223);
+}

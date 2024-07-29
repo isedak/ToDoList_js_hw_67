@@ -1,0 +1,26 @@
+.x-span {
+    font-family: 'Fredoka One', cursive;
+    position: relative;
+    top: -1px;
+    left: -1px;
+    font-size: 29px;
+    line-height: 21px;
+}
+
+.btn-delete {
+    outline: none;
+    border-radius: 6px;
+    background-color: white;
+    width: 39px;
+    height: 38px;
+    border: 6px solid rgb(223, 57, 57);
+    box-sizing: border-box;
+    color: rgb(223, 57, 57);
+    flex-shrink: 0;
+    cursor: pointer;
+}
+
+.btn-delete:hover {
+    background-color: rgb(223, 57, 57);
+    color: white;
+}

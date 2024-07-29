@@ -1,0 +1,21 @@
+.form-column {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    gap: 10px;
+    padding-right: 10px;
+}
+
+.gray-text {
+    color: gray;
+    margin: 8px 0 4px 0;
+}
+
+.form-row {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    width: 100%;
+}
